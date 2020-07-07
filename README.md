@@ -30,4 +30,4 @@ endfunc
 
 Open namelist.wps with namelist.wps with vim or nvim and press r in command mode, you can see the domain your set .
 
-![](./WPS_DOAMI.png)
+<center><img src="./WPS_DOMAIN.png"></center>
